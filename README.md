@@ -9,7 +9,7 @@
 
 <h2 align="left">About me</h2>
 
-I am a junior year student at IIITDM Jabalpur pursuing a bachelor’s degree in Computer Science. I am really passionate about
+I am a Final year student at IIITDM Jabalpur pursuing a bachelor’s degree in Computer Science. I am really passionate about
 web development and software development, want to explore new opportunities in this domain.I enjoy building projects,
 communicating with people, and discussing moving projects in the correct direction while keeping everyone’s perspective in
 view.
